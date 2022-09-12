@@ -1,0 +1,9 @@
+case_id,available,interesting_place,price,close_friend,go_travel
+1,yes,yes,cheap,yes,go
+2,not_sure,no,expensive,yes,not_go
+3,yes,no,free,yes,go
+4,not_sure,yes,free,no,go
+5,yes,no,expensive,no,not_go
+6,not_sure,yes,cheap,no,not_go
+7,yes,yes,free,no,go
+8,not_sure,yes,expensive,yes,not_go
